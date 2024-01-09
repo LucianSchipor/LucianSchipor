@@ -32,6 +32,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucianSchipor&theme=radical&border=7F3FBF&background=0D1117" alt="Lucian's GitHub streak"/>
   </a>
 </p>
+
+![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)
 <p align="center">
   <a href="https://github.com/LucianSchipor">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianSchipor&theme=radical" alt="Lucian's GitHub Contribution"/>
