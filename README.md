@@ -27,10 +27,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/LucianSchipor">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucianSchipor&theme=radical&border=7F3FBF&background=0D1117" alt="Lucian's GitHub streak"/>
-  </a>
-</p>
-
+<p align = "center">
 ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)
+</p>
