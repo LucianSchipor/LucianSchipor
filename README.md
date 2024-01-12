@@ -25,6 +25,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![C#](https://img.shields.io/badge/C#-F0DB4F?style=for-the-badge&labelColor=black&logo=c#&logoColor=F0DB4F)
+![C#](https://img.shields.io/badge/csharp-F0DB4F?style=for-the-badge&labelColor=black&logo=c#&logoColor=F0DB4F)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)
