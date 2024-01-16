@@ -26,5 +26,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
   <br>
 </a>
+[![LucianSchipor's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=aura_dark&langs_count=10&layout=compact)]
   </details>
-[![LucianSchipor's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=aura_dark&langs_count=10&layout=compact)]()
+
