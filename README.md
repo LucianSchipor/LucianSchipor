@@ -17,7 +17,6 @@
  📧 &emsp; Reach me anytime: schiporlucian20021@gmail.com<br/><br/>
 </p>
 
-![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)        
-[![Lucian's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=aura_dark&langs_count=10&layout=compact)]()
+![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)        [![Lucian's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=aura_dark&langs_count=10&layout=compact)]()
 
 
