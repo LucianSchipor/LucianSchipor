@@ -26,6 +26,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
   <br>
 </a>
+        <a>
   ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)      
-  </details>
+        </a>
+
+        </details>
 
