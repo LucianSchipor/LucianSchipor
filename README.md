@@ -18,3 +18,15 @@
 </p>
 
 ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)
+
+## ⚡Stats:
+<details>
+  <summary><b>Stats Details</b></summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
+  <br>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucianSchipor&theme=aura_dark" />
+</a>
+  </details>
