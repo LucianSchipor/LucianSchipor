@@ -18,15 +18,6 @@
 </p>
 
 ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)
+[![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact)]()
 
-## ⚡Stats:
-<details>
-  <summary><b>Stats Details</b></summary>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
-  <br>
-</a>
-  ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)      
-
-        </details>
 
