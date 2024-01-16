@@ -17,7 +17,7 @@
  📧 &emsp; Reach me anytime: schiporlucian20021@gmail.com<br/><br/>
 </p>
 
-![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=shadow_blue&show_icons=true&rank_icon=github)     
+![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=shadow_blue&show_icons=true&rank_icon=default)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=shadow_blue&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
