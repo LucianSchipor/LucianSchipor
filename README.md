@@ -18,9 +18,9 @@
 </p>
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=default&show_icons=true&rank_icon=github" style="width: 350px;" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=default&show_icons=true&rank_icon=github" style="width: 350px;height:50%" alt="GitHub Stats"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=default&layout=donut-vertical" style="width: 350px;" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=default&layout=donut-vertical" style="width: 350px;height:50%" alt="Top Languages"/>
 </div>
 
 
