@@ -17,10 +17,10 @@
  📧 &emsp; Reach me anytime: schiporlucian20021@gmail.com<br/><br/>
 </p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=shadow_blue&show_icons=true&hide_rank=true" style="width: 150px;" alt="GitHub Stats"/>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=shadow_blue&show_icons=true&hide_rank=true" style="width: 300px;" alt="GitHub Stats"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=shadow_blue&layout=donut-vertical" style="width: 150px;" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=shadow_blue&layout=donut-vertical" style="width: 300px;" alt="Top Languages"/>
 </div>
 
 
