@@ -18,6 +18,6 @@
 </p>
 
 ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=shadow_blue&hide=["issues"]&show_icons=true)     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=shadow_blue&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
