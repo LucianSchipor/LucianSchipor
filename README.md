@@ -17,7 +17,7 @@
  📧 &emsp; Reach me anytime: schiporlucian20021@gmail.com<br/><br/>
 </p>
 
-![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true)
+<!-- ![Lucian's github stats](https://github-readme-stats.vercel.app/api?username=LucianSchipor&hide=["issues"]&show_icons=true) -->
 
 ## ⚡Stats:
 <details>
