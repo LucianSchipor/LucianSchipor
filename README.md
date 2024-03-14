@@ -1,14 +1,14 @@
 <!-- Intro  -->
-<h3 align="center">
+<h3 align="left">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank">Lucian</a></b>
         </samp>
 </h3>
-<p align="center">
+<p align="left">
  <a href="https://www.linkedin.com/in/lucian-schipor-289765224/" target="_blank">
  </a>
 <!-- About Section -->
-<div align="center">
+<div align="left">
         <p>
          ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
          ❤️ &emsp; Love to writing code and learning new features<br/><br/>
