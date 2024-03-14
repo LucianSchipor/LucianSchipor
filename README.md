@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 <!-- About Section -->
-<p>
+<p aling ="center">
  <img align="right" width="250" src="/assets/programmer.gif" alt="Cfoding gi" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
@@ -17,7 +17,7 @@
  📧 &emsp; Reach me anytime: schiporlucian20021@gmail.com<br/><br/>
 </p>
 
-<div align="left">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LucianSchipor&theme=default&show_icons=true&hide_rank=true" style="width: 350px;" alt="GitHub Stats"/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianSchipor&theme=default&layout=donut-vertical" style="width: 350px;" alt="Top Languages"/>
