@@ -11,7 +11,6 @@
 <!-- About Section -->
 <p aling ="center">
  <img align="right" width="250" src="/assets/programmer.gif" alt="Cfoding gi" />
-  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: schiporlucian20021@gmail.com<br/><br/>
